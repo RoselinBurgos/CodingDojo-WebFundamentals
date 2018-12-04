@@ -1,0 +1,247 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.whole
+{
+    width: 970px;
+    height: 600px;
+    background-color: RGB(36,80,118);
+    
+}
+
+.tinytext
+{
+    background-color:RGB(36,80,118);
+    text-align: right;
+    color: white;
+    padding-right:10px;
+    margin-bottom: 10px;
+    
+}
+
+.tinyyellow
+{
+    color:yellow;
+}
+
+.pytop
+{
+    
+    height: 105px;
+    background-color: RGB(36,80,118);
+}
+
+.pyleft
+{
+    height: 100px;
+    width: 470px;
+}
+
+.topright
+{
+   height: 40px;
+   width: 250px; 
+   display: inline-block;
+   vertical-align: top;
+   background-color:gray; 
+   padding-top: 10px;
+   padding-left:50px;
+   border-radius: 10px;
+   margin-left:190px;
+
+}
+
+.push
+{
+    width: 35px;
+    height:30px;
+    color: white;
+    background-color: RGB(60,89,115);
+    
+    
+}
+
+.searchbox
+{
+    width:175px;
+    height:25px;
+    text-align-last:center;
+    
+}
+
+.topmenu
+{
+    margin-left: 100px;
+    height: 60px;
+    width: 800px;
+    background-color: RGB(69,125,173);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.menulinks
+{
+    color: white;
+    word-spacing: 35px;
+    font-size: 22px;
+    padding-top: 15px;
+}
+
+.topcenter
+{
+    background-color: RGB(36,80,118);
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.centerleft
+{
+    width:400px;
+    height: 375px;
+    background-color: RGB(36,80,118);
+    display: inline-block;
+    text-align: center;
+    list-style-position: inside;
+    margin-top: 20px;
+    
+}
+
+.listleft
+{
+
+    text-align: center;
+    color: white;
+    
+}
+
+.beautiful
+{
+    color: yellow;
+    width: 500px;
+    vertical-align: center;
+    padding-top: 20px;  
+    font-size: 20px;
+    font-style: italic;
+    font:"Fira Sans", sans-serif;
+}
+
+.zen
+{
+    color: white;
+    padding-top: 20px;
+}
+
+
+.centerright
+{
+    width: 500px;
+    height: 375px;
+    background-color:RGB(36,80,118);
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: top;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.toprighttext
+{
+    color: white;
+}
+
+.whiteblock
+{
+    background-color:white;
+    height: 225px;
+}
+
+.whiteleft
+{
+    background-color: white;
+    height:225px;
+    width:400px;
+    display: inline-block;
+    margin-left: 45px;
+    list-style-position: inside;
+    text-align: center;
+    vertical-align: bottom;
+    border-top:solid RGB(70,126,173);
+    
+}
+
+.whiteright
+{
+    background-color:white;
+    height:225px;
+    width:400px;
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: bottom;
+    text-align: center;
+    list-style-position: inside;
+    border-top:solid RGB(70,126,173);
+}
+
+.pypac
+{
+    color:RGB(162,196,227);
+    width: 200px;
+    text-align: center;
+    background-color: white;
+}
+
+.rightlist
+{
+    color:RGB(162,196,227);
+}
+
+.leftlist
+{
+    color: RGB(162,196,227);
+}
+
+.footer
+{
+    background-color: RGB(45,103,153);
+    height: 100px;
+    width: 970px;
+    display: inline-block;
+    
+}
+
+.foot1
+{
+    width: 200px;
+    height: 75;
+    display: inline-block;
+    padding-left: 50px;
+    word-spacing: 5px;
+    padding-top: 50px; 
+    padding-right:55px;
+    margin-left: 75px;
+    color:RGB(214,229,242);
+    
+}
+
+.foot2
+{
+    width:150px;
+    display: inline-block;
+    word-spacing: 5px;
+    padding-right:55px;
+    color:RGB(214,229,242);
+    
+}
+
+.foot3
+{
+    width:150px;
+    display: inline-block;
+    word-spacing: 5px;
+    color:  RGB(214,229,242);  
+    
+}

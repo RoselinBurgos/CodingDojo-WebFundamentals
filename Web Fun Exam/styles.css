@@ -1,0 +1,299 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.whole
+{
+    width: 1000px;
+    height: 1100px;
+    background-color:#000040;
+    margin-top: 3px;
+
+}
+
+.topheader
+{
+    width:950px;
+    height: 75px;
+    background-color:#000040;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    
+}
+
+.j
+{
+    color: white;
+    display: inline-block;
+    font-family: Tahoma, Geneva, sans-serif;
+    padding-left: 30px;
+    vertical-align: bottom;
+    
+}
+
+.c
+{
+    color:#236B8E;
+    display: inline-block;
+    font-family: Tahoma, Geneva, sans-serif;
+    padding-left: 10px;
+    vertical-align: bottom;
+    
+}
+
+.james
+{
+    width: 300px;
+    font-size: 25px;
+    display: inline-block; 
+    padding-top: 20px;
+}
+
+.topright
+{
+    color: white;
+    word-spacing: 30px;
+    width: 400px;
+    display: inline-block; 
+    padding-left: 220px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.whitecenter
+{
+    width: 950px;
+    height: 950px;
+    background-color:white;
+    vertical-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.centerpic
+{
+    height: 375px;
+    width: 925px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.blueboxes
+{
+    background-color:white;
+    width: 925px;
+    height: 300px;
+    margin-left: 11px;   
+    
+}
+
+.wrench
+{
+    height:40px;
+    width: 40px;
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+.blueheaders
+{
+    color: white;
+    width: 75px;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.bluebox1
+{
+    background-color:#236B8E;
+    height:300px;
+    width: 305px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.bluebox1text
+{
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.bluebox2
+{
+    background-color:#236B8E;
+    height:300px;
+    width: 306px; 
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bluebox2text
+{
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.bluebox3
+{
+    background-color:#236B8E;
+    height:300px;
+    width: 306px; 
+    display: inline-block;  
+    vertical-align: top;
+}
+
+.bluebox3text
+{
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.button
+{
+    width: 150px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin: 10px;
+    border-radius: 25px;
+    background: linear-gradient(to bottom, #33ccff 0%, #0000ff 100%);
+    background-color: royalblue;
+    color: white;
+    font-weight: bold; 
+}
+
+.push
+{
+    padding-top: 10px;
+}
+
+.bottomwhitebox
+{
+    background-color:white;
+    height:250px;
+    width: 926px;
+    margin-left: 11px;
+}
+
+.whitebox1
+{
+    Background-color:white;
+    width: 306px;
+    height: 220px;
+    padding-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.theworld
+{
+    color:#000040;
+    font-size: 20px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.building
+{
+    padding-top: 20px;
+    width: 305px;
+}
+
+.whitebox2
+{
+    Background-color:white;
+    width: 306px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 50px;
+    font-family: Tahoma, Geneva, sans-serif; 
+}
+
+.ourgoal
+{
+    color:#000040;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+
+.whitebox3
+{
+    Background-color:white;
+    width: 306px;
+    height: 225px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.testimonials
+{
+   color:#000040;
+   font-size: 20px;
+   font-family: Tahoma, Geneva, sans-serif; 
+   text-align: left;
+   padding-top: 20px;
+   padding-bottom: 25px;
+   font-weight: bold;
+}
+
+.lightblue
+{
+    background-color:lightcyan;
+    width: 250px;
+    height: 75px;
+    text-align: center;
+    margin-left: 25px;
+    padding:10px;
+    color: navy;
+}
+
+.iam 
+{
+   
+}
+
+.samantha
+{
+    display: inline-block;  
+    padding-top: 50px;
+    color:#000040;
+}
+
+.footer
+{
+   background-color: lightcyan;
+   width: 940px;
+   height: 35px;
+   display: inline-block;
+   word-spacing: 30px;
+   text-align: center;
+   color: navy;
+   padding-top: 30px;
+   font-family: Tahoma, Geneva, sans-serif; 
+   font-size: 15px;
+   margin-top: 3px;
+   
+   
+   
+  
+   
+}
+

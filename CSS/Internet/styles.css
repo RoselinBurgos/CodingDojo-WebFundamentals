@@ -1,0 +1,382 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.whole
+{
+    background-color: white;
+    width size: 925px;
+    height: 900px; 
+}
+
+.globe
+{
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    
+}
+
+.whiteheader
+{
+    background-color:white;
+    height:75px;
+    width: 900px;
+}
+
+.whiteheadertext
+{
+    padding-left: 90px;
+    width: 250px;
+    padding-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+.net 
+{
+    color: RGB(34, 101, 158);
+    background-color: transparent;
+}
+
+.blueheader
+{
+    background-image: linear-gradient(RGB(38, 103, 159),RGB(77, 128, 171),RGB(38, 103, 159));
+    height:50px;
+    width: 900px;
+    color:white; 
+    padding-right: 15px;
+}
+
+.blueheadertext
+{
+   width:225px; 
+   padding-top:10px;
+   padding-left:20px;
+}
+
+.leftcolumn
+{
+
+    width:200px;
+    height: 600px;
+    display: inline-block;
+    
+    
+}
+
+.leftcolumntop
+{
+    
+    width:200px;
+    height: 300px;
+}
+
+.topcolumntext
+{
+    font-weight: bold;
+    padding-left: 5px;
+    padding-top: 25px;
+    
+}
+
+.topcolumntext2
+{
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.red
+{
+    color:red;
+    background-color: transparent;
+    
+}
+
+.internet
+{
+   color: RGB(56, 115, 166); 
+   background-color: transparent;
+}
+
+.bluebutton
+{
+    width: 150px;
+    height:30px;
+    color: white;
+    padding-left: 5px;
+    border-radius: 10px;
+    background-image: linear-gradient(RGB(90, 145, 190),RGB(36, 103, 159));
+    border: none;
+    margin-left: 25px;
+}
+
+.orangebutton
+{
+    width: 150px;
+    height:30px;
+    color: white;
+    padding-left: 5px;
+    border-radius: 10px;
+    background-image: linear-gradient(RGB(236, 156, 53),RGB(239, 119, 0));
+    border: none;
+    margin-left: 25px;
+}
+
+
+.leftcolumnbottom
+{
+   
+    border-top:solid gray;
+    width: 200px;
+    height: 400px;
+}
+
+.ninjablock
+{
+    width: 175px;
+    height: 250px;
+    background-image: url("ad_background.png");
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.reinvent
+{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 15px;
+}
+
+.ninjapic
+{
+    height:100px;
+    width: 75px;
+    padding-left: 50px;
+}
+
+.ninjabutton
+{
+    background-color: deepskyblue;
+    border: none;
+    width: 125px;
+    height:30px;
+    border-radius: 10px;
+    margin-left:25px;
+    color: white;
+}
+
+.rightbox
+{
+
+    width: 695px;
+    height: 55px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+       
+}
+
+.dnsbox
+{
+
+    width: 695px;
+    height: 55px;
+}
+
+.dnsleft
+{
+    width: 100px;
+    height: 55px;
+    display: inline-block;
+    
+}
+
+.dnsword
+{
+    width: 50px;
+    display: inline-block;
+    color: RGB(86, 135, 177)
+}
+
+.house
+{
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+}
+.dnsright
+{
+    height: 55px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 390px;
+   
+}
+
+.phone
+{
+    height: 40px;
+    width: 40px;
+    padding-top: 5px;
+    padding-left: 5px;
+    display: inline-block;
+    
+}
+
+.monday
+{
+    display: inline-block;
+    font-size: 10px;
+}
+
+.number
+{
+    color:RGB(0, 192, 223);
+    font-size: 25px;
+    font-weight: bold;
+    background-color: transparent;
+}
+
+.clientsbox
+{
+    display: inline-block;
+    vertical-align: top;
+    width: 695px;
+    height: 275px;
+    border-top:solid gray;
+    
+}
+
+.teal
+{
+    color: teal;
+    background-color: transparent;
+}
+
+.toplist
+{
+    margin-left: 30px;
+    
+}
+
+
+.clientsandservers
+{
+    color: RGB(34, 101, 158);
+}
+
+.clientpic
+{
+    width:150px;
+    height:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
+}
+
+.sowhat
+{
+    width: 695px;
+    height: 155px;
+   
+}
+
+.sowhatacc
+{
+    color: RGB(34, 101, 158);
+}
+
+.orderlist
+{
+    margin:0px;
+    word-break: break-all;
+    padding: 0;
+}
+
+.bottomlist
+{
+    padding-left: 30px;
+}
+
+.thebig
+{
+
+    width:695px;
+    height: 145px;
+}
+
+.blueborder
+{
+    width: 690px;
+    border-top:solid royalblue;
+    border-right: solid royalblue;
+    border-left: solid royalblue;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+
+.htmlblock
+{
+    width: 105px;
+    height: 100px;
+ 
+}
+
+
+.htmlsquare
+{
+ width: 105px;
+ height: 125px;
+ display: inline-block;
+ vertical-align: top;
+}
+
+.htmlpic
+{
+    width:100px;
+    height: 100px;
+}
+
+.big3right
+{
+
+    display: inline-block; 
+    width: 550px;
+    
+}
+
+.big3title
+{
+    color: RGB(34, 101, 158);
+    width: 400px;
+    display: inline-block; 
+    vertical-align: top;
+}
+
+.big3italic
+{
+    font-style: italic;
+    background-color: transparent;
+}
+
+.big3par1
+{
+    width: 550px;
+    display: inline-block; 
+   
+
+}
+
+
+
+

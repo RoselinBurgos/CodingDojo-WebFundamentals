@@ -1,0 +1,191 @@
+.whole
+{
+    width: 1000px;
+    height: 950px;
+    background: #563c5c;
+    
+}
+
+.header
+{
+ width: 1000px;
+ height: 75px;
+ background-color: gray;
+ background-image: linear-gradient(white,whitesmoke);
+}
+
+.j
+{
+    width: 400px;
+    display: inline-block;
+    margin-left: 20px;
+  
+}
+
+.m 
+{
+    width: 450px;
+    display: inline-block;
+    text-align: right;
+    margin: 0px;
+    margin-left: 100px;
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+    
+}
+
+.topbox
+{
+    background-color: pink;
+    
+}
+
+
+.jane
+{
+    height: 250px;
+    width: 400px;
+    background: lightgray;
+    padding: 5px;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+.abouthead
+{
+    background-image: linear-gradient(#606060, gray,#606060);
+    color: white;
+    padding: 10px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+.aboutbox
+{
+  width: 495px;
+  height: 270px;
+  display: inline-block;
+  vertical-align: top;
+  background-image: linear-gradient(to bottom right, white,whitesmoke);
+  margin-top: 25px;
+  margin-left: 20px;
+
+}
+
+.aboutpar
+{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.bottombox
+{
+    background-color: orange;
+}
+
+.centerpix
+{
+    height: 150px;
+    width: 300px;
+    margin-bottom: 0px;
+}
+
+.centerblocktext
+{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.grayheaders
+{
+    background-image: linear-gradient(#606060, gray,#606060);
+    color: white;
+    width:300px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+      
+}
+
+.lamodebox
+{
+    height: 600px;
+    width: 300px;
+    margin: 2px;
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(to bottom right, white,whitesmoke);
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.familycontactbox
+{
+    height: 600px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(to bottom right, white,whitesmoke);
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+
+.fivetext
+{
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 126px;
+}
+
+.fiveelevenbox
+{
+    height: 600px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(to bottom right, white,whitesmoke);
+    margin-top: 20px;
+    
+}
+
+.tinysquares
+{
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+    margin-left: 15px;
+
+    
+}
+
+.technologies
+{
+    margin-top: 20px;
+    margin-bottom: 0px; 
+  
+}
+
+
+.techmode
+{
+    margin-bottom: 8px;
+}
+
+
+
+.button
+{
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: rgb(28, 184, 65);
+
+    position: relative;
+    left: 50%;
+    margin-left: -50px;
+     
+}

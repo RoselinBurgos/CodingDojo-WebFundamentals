@@ -1,0 +1,2 @@
+Simply Responsive
+Create the website below using media queries.

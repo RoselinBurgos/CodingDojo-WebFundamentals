@@ -1,0 +1,164 @@
+.header
+{
+    background-color: gray;
+    height: 60px;
+    width: 1000px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 5px;    
+    padding-bottom:10px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: navy;
+    border-width: 3px;
+ 
+
+}
+
+.mediatext
+{
+    padding-bottom: 10px;
+}
+
+.middleblock
+{
+    background-color: gainsboro;
+    height: 150px;
+    width: 990px;
+    padding: 5px;
+    margin-bottom: 10px; 
+    border-style: solid;
+    border-color: navy;
+    border-width: 3px;
+}
+.bottomblock
+{
+    background-color: palegoldenrod;
+    height: 100px;
+    width: 1005px;
+    border-style: solid;
+    border-color: navy;
+    border-width: 3px;
+}
+
+.text
+{
+   display: inline-block; 
+   height: 175px;
+    
+}
+
+.bold
+{
+    font-weight: bold;
+    background-color: transparent;
+}
+
+@media only screen and (max-width:480px)
+{
+    .header
+    {
+        
+        width: 98%;
+    }
+
+    .bottomphone
+    {
+        padding-left: 10px;
+    }
+
+    .bottomtablet
+    {
+        display: none;
+    }
+
+    .bottomdesktop
+    {
+        display: none;
+       
+    }
+
+    .middleblock
+    {
+        width: 96%;
+    }
+
+    .text
+    {
+        width: 98%;
+    }
+
+    .bottomblock
+    {
+        width: 98%;
+    }
+
+}
+
+@media only screen and (min-width:481px)
+{
+    .header
+    {
+        width: 98%;
+        
+    }
+
+    .bottomphone
+    {
+        display: none;
+    }
+
+    .bottomtablet
+    {
+        padding-left: 10px;
+    }
+
+    .bottomdesktop
+    {
+        display: none;
+        
+    }
+
+    .middleblock
+    {
+        width: 97%
+    }
+
+    .bottomblock
+    {
+        width: 98%;
+    }
+
+
+
+    
+}
+
+@media only screen and (min-width:1024px)
+{
+    .header
+    {
+        
+       
+    }
+
+    .bottomphone
+    {
+        display: none;
+
+    }
+
+    .bottomtablet
+    {
+        display: none;
+    }
+
+    .bottomdesktop
+    {
+        display:inline-block;
+        padding-left: 10px;
+    }
+
+
+
+}

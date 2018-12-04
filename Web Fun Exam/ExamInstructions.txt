@@ -1,0 +1,1 @@
+Recreat the "JamesTestImage" using HTML and CSS.

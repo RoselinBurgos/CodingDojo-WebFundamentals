@@ -1,0 +1,2 @@
+"About Python" CSS Assignment
+Break down the image below into proper HTML and CSS. Recreate the page. 

@@ -1,0 +1,88 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header
+{
+    
+    height: 75px;
+}
+
+.headertext
+{
+   
+    width: 300px;
+    height: 25px;
+    margin-left: 45px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.pictureblock
+{
+ 
+    width: 644px;
+    height: 350px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.golden1
+{
+    width: 300px;
+    height: 150px;
+    border-style: solid;
+    border-color: navy;
+    border-width: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.dorothy
+{
+     width: 300px;
+    height: 150px;
+    border-style: solid;
+    border-color: navy;
+    border-width: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.blanche
+{
+    width: 300px;
+    height: 150px;
+    border-style: solid;
+    border-color: navy;
+    border-width: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.rose
+{
+    width: 300px;
+    height: 150px;
+    border-style: solid;
+    border-color: navy;
+    border-width: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.sofia
+{
+    width: 300px;
+    height: 150px;
+    border-style: solid;
+    border-color: navy;
+    border-width: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+

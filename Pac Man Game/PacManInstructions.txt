@@ -1,0 +1,1 @@
+Pac Man like game where player can collect coins.
